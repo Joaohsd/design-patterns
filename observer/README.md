@@ -22,3 +22,11 @@ The build process also needs maven. In order to do that, use the command below:
 ```shell
 mvn clean install
 ```
+
+## **Run**
+
+In order to run the demo project, just run the command below after Build:
+
+```shell
+java -jar target/observer-1.0-SNAPSHOT.jar
+```
